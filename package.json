@@ -1,0 +1,31 @@
+{
+  "name": "yahoo-finance-history",
+  "version": "0.0.1",
+  "description": "Historical price history data from Yahoo Finance including dividends and splits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/yahoo-finance-history.git"
+  },
+  "keywords": [
+    "yahoo",
+    "finance",
+    "history",
+    "stock",
+    "historical",
+    "data"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/yahoo-finance-history/issues"
+  },
+  "homepage": "https://github.com/bitquant/yahoo-finance-history#readme",
+  "dependencies": {
+    "request": "2.85.0",
+    "request-promise-native": "1.0.5"
+  }
+}
