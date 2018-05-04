@@ -1,6 +1,6 @@
 {
   "name": "yahoo-finance-history",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Historical price history data from Yahoo Finance including dividends and splits",
   "main": "index.js",
   "scripts": {
