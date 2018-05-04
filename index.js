@@ -45,15 +45,3 @@ var getPriceHistory = async (symbol) => {
 };
 
 exports.getPriceHistory = getPriceHistory;
-
-/*
-(async () => {
-    try {
-        let data = await getPriceHistory("MSFT");
-        console.log(data);
-    }
-    catch (ex) {
-        console.log('got error:' + ex);
-    }
-})();
-*/
