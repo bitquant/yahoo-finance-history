@@ -1,6 +1,6 @@
 {
   "name": "yahoo-finance-history",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Historical price history data from Yahoo Finance including dividends and splits",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/bitquant/yahoo-finance-history#readme",
   "dependencies": {
-    "fetchout": "0.0.1",
     "set-cookie-parser": "2.4.5"
   }
 }

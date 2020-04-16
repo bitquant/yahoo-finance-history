@@ -9,6 +9,7 @@ $ npm install yahoo-finance-history --save
 ## Usage
 ```javascript
 var yahoo = require("yahoo-finance-history");
+global.fetch = require('node-fetch');
 
 (async () => {
     try {

@@ -1,8 +1,5 @@
 'use strict';
-var fetch = require('fetchout');
 var setCookie = require('set-cookie-parser');
-
-fetch.defaultTimeout(10 * 1000);
 
 var getPriceHistory = async (symbol) => {
 
